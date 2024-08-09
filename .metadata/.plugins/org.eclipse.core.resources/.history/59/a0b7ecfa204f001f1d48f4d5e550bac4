@@ -1,0 +1,5 @@
+package singleton_bean_scope;
+
+public class Hello {
+
+}

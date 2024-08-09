@@ -1,0 +1,13 @@
+package com.demo;
+
+public class Department {
+	public void DisplayDepartment(String emp_type) {
+		if(emp_type.equals("HR"))
+			System.out.println("HR Department,Role: Recruitment,Employee Benefits");
+		else if(emp_type.equals("Admin"))
+			
+			
+	
+
+}
+}

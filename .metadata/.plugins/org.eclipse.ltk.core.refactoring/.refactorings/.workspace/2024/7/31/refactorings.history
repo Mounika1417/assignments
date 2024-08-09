@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;SetterDependency&apos; to &apos;SetterDependencyInjection&apos;&#x0D;&#x0A;- Original element: &apos;SetterDependency&apos;&#x0D;&#x0A;- Renamed element: &apos;SetterDependency&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;SetterDependency&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=SetterDependency" name="SetterDependencyInjection" references="true" stamp="1722420044016" version="1.0"/>
+</session>

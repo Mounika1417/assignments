@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;wiprojavaassignments.KnaapsackProblem.java&apos; to &apos;KnapsackProblem.java&apos;&#x0D;&#x0A;- Original project: &apos;wiprojavaassignments&apos;&#x0D;&#x0A;- Original element: &apos;wiprojavaassignments.KnaapsackProblem.java&apos;&#x0D;&#x0A;- Renamed element: &apos;wiprojavaassignments.KnapsackProblem.java&apos;" description="Rename compilation unit &apos;KnaapsackProblem.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;wiprojavaassignments{KnaapsackProblem.java" name="KnapsackProblem.java" references="false" stamp="1720178277701" version="1.0"/>
+</session>

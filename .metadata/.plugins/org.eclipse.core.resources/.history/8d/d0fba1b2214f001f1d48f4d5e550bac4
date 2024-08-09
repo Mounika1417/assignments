@@ -1,0 +1,12 @@
+package singleton_bean_scope;
+import org.springframework.context.ApplicationContext;
+public class ClientBeanScope {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ApplicationContext context=new ClassPathXmlApplicationContext("singletonscope.xml");
+		
+
+	}
+
+}

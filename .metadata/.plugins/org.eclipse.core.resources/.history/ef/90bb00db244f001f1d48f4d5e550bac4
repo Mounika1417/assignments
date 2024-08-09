@@ -1,0 +1,8 @@
+package com.demo;
+
+public class Department {
+	public void DisplayDepartment(String emp_type) {
+		
+	if(emp_type.equals())
+
+}
